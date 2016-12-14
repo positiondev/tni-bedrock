@@ -89,3 +89,10 @@ Keep track of development and community news.
 
 [roots-wp-salt]:https://roots.io/salts.html
 [wp-cli-dotenv]:https://github.com/aaemnnosttv/wp-cli-dotenv-command
+
+## Changelog
+
+* Plugin Updates - 12/7/2016
+  * Added project-specific plugins and themes to composer configuration file.
+
+* Initial Commit - 12/7/2016
