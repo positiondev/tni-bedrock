@@ -6,6 +6,9 @@ web/app/upgrade
 web/app/uploads/*
 !web/app/uploads/.gitkeep
 
+# Config
+config/environments/development.php
+
 # WordPress
 web/wp
 web/.htaccess
